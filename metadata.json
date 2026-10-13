@@ -1,0 +1,6 @@
+{
+  "name": "KINETIQ.FIT - Next-Gen Fitness & Athletic Training",
+  "description": "Experience group workouts, strength & conditioning, dance fitness, boxing, and elite training facilities inspired by cult.fit. Book sessions, track performance, and elevate your fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
